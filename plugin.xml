@@ -39,8 +39,7 @@
         </config-file>
         <header-file src="src/ios/ZeroConf-Bridging-Header.h" type="BridgingHeader"/>
         <source-file src="src/ios/ZeroConf.swift"/>
-        <header-file src="src/ios/Hostname.h"/>
-        <source-file src="src/ios/Hostname.m"/>
+        <header-file src="src/ios/Hostname.swift"/>
     </platform>
 
 </plugin>
